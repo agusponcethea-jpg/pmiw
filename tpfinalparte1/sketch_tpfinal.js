@@ -1,3 +1,4 @@
+//https://youtu.be/A-SKYGoEfuA
 let pantalla = 0;
 let imagenes = [];
 let burbujaTexto;
